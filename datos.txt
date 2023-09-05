@@ -1,5 +1,4 @@
 Nombre:
 Apellido: Calderón
-País:
-Ciudad: Merlo
+País: Argentina
 Puesto Laboral: RRHH
