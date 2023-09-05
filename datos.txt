@@ -1,5 +1,11 @@
 Nombre:
+<<<<<<< HEAD
 Apellido: 
 País:
 Ciudad: 
 Puesto Laboral:
+=======
+Apellido: Calderón
+País: Argentina
+Puesto Laboral: RRHH
+>>>>>>> c43366bb815c7b7a304e67eea1905b91a8a279ae
